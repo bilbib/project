@@ -1,0 +1,68 @@
+.navbar{
+    background-color: #301f17;
+}
+.about {
+    background-size: cover;
+    margin-top: 10px;
+    background-color: #574a3b;
+    color: #c2b6ad;
+    height: 270px;
+    padding-top: 1%;
+    text-align: left
+}
+.desc1 {
+    background-color: #d0bca0;
+    color: #523f31;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    font-size: small;
+    background-size: cover;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+}
+.desc3{
+    background-color: #ede8b5;
+    color: #9f8571;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-weight: bold;
+    font-size: small;
+    line-height: 0,8;
+    background-size: cover;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+}
+.desc4{
+    background-color: #cbc68a;
+    color: #797e44;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-weight: bold;
+    font-size: small;
+    line-height: 0,8;
+    background-size: cover;
+    padding-top: 1%;
+    padding-bottom: 0%;
+    padding-left: 1%;
+}
+.ourproduct{
+    background-size: cover;
+    background-color: #523f31;
+    color: #cbc68a;
+    margin-top: 10px;
+    text-align: center;
+}
+.footer {
+    background-color: #e0eaf3;
+    padding: 20px 0;
+    color: #333;
+}
+.footer .contact, .footer .based {
+    text-align: left;
+}
+.footer .contact i, .footer .based i {
+    margin-right: 10px;
+    text-align: right;
+}
