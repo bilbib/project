@@ -10,22 +10,11 @@
     padding-top: 1%;
     text-align: left
 }
-.desc1 {
-    background-color: #d0bca0;
-    color: #523f31;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align: left;
-    font-size: small;
-    background-size: cover;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    padding-left: 1%;
-}
 .desc3{
     background-color: #ede8b5;
     color: #9f8571;
     font-family: 'Courier New', Courier, monospace;
-    text-align: left;
+    text-align: center;
     font-weight: bold;
     font-size: small;
     line-height: 0,8;
@@ -38,7 +27,7 @@
     background-color: #cbc68a;
     color: #797e44;
     font-family: 'Courier New', Courier, monospace;
-    text-align: left;
+    text-align: center;
     font-weight: bold;
     font-size: small;
     line-height: 0,8;
